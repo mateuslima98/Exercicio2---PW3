@@ -1,6 +1,6 @@
 let nota1: number = 10
-let nota2: number = 5
-let nota3: number = 7
+let nota2: number = 90
+let nota3: number = 10
 
 let media: number = (nota1 + nota2 + nota3) / 3
 console.log("A media é bb " + media)
